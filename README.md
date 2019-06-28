@@ -43,7 +43,7 @@ The data was sourced in February 2019 and has data till January 16, 2019. Both t
 [inspection data](https://data.lacounty.gov/Health/LOS-ANGELES-COUNTY-RESTAURANT-AND-MARKET-INSPECTIO/6ni6-h5kp) and [violations data](https://data.lacounty.gov/Health/LOS-ANGELES-COUNTY-RESTAURANT-AND-MARKET-VIOLATION/8jyd-4pv9).
 
 The [code](https://github.com/ashish1993utd/Los-Angeles-Restaurant-Data-Analysis-and-Prediction/blob/master/Code/Naive%20Bayes%20Classification.ipynb) can be used to replicate the results. 
-The tableau visualizations can be found [here](https://github.com/ashish1993utd/Los-Angeles-Restaurant-Data-Analysis-and-Prediction/blob/master/Tableau-Visualizations/Code).
+The tableau visualizations can be found [here](https://github.com/ashish1993utd/Los-Angeles-Restaurant-Data-Analysis-and-Prediction/blob/master/Tableau-Visualizations/).
 
 
 ## Code Examples
