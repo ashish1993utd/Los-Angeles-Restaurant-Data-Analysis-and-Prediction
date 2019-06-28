@@ -1,10 +1,10 @@
 [![Language](https://img.shields.io/badge/Made%20with-Python%20and%20Tableau-blue.svg)](#technologies-and-tools)
-![HitCount](http://hits.dwyl.io/harshbg/Los-Angeles-Restaurant-Data-Analysis-and-Prediction.svg)
+![HitCount](http://hits.dwyl.io/ashish1993utd/Los-Angeles-Restaurant-Data-Analysis-and-Prediction.svg)
 
 
 # Los Angeles Restaurant Data Analysis and Prediction
 > An analysis of the inspection data of the restaurants in the 88 cities of Los Angeles county.
-The project was done as part of INFORMS Analytics Challenge at the University of Texas at Dallas. The entire summary of the project can be found in the [project report](https://github.com/harshbg/Los-Angeles-Restaurant-Data-Analysis-and-Prediction/blob/master/Team%20Linear%20Digressors-Final.pdf).
+The project was done as part of INFORMS Analytics Challenge at the University of Texas at Dallas. The entire summary of the project can be found in the [project report](https://github.com/ashish1993utd/Los-Angeles-Restaurant-Data-Analysis-and-Prediction/blob/master/Team%20Linear%20Digressors-Final.pdf).
 
 ## Table of contents
 * [General info](#general-info)
@@ -27,7 +27,7 @@ unincorporated areas in the LA county. We have analyzed the data to answer 5 que
 ![Example screenshot](./img/Capture3.PNG)
 ![Example screenshot](./img/Capture4.PNG)
 
-**The entire presentation of the project can be found [here](https://github.com/harshbg/Los-Angeles-Restaurant-Data-Analysis-and-Prediction/blob/master/Team%20Linear%20Digressors-Final.pdf).**
+**The entire presentation of the project can be found [here](https://github.com/ashish1993utd/Los-Angeles-Restaurant-Data-Analysis-and-Prediction/blob/master/Team%20Linear%20Digressors-Final.pdf).**
 
 ## Technologies and Tools
 * Python
@@ -39,11 +39,11 @@ unincorporated areas in the LA county. We have analyzed the data to answer 5 que
 There are two datasets available: 
 (i) market inspection dataset: contains results of inspection;
 (ii) market violations dataset: contains information on health code violations in restaurants.
-The data was sourced in February 2019 and has data till January 16, 2019. Both the files can be found in [data](https://github.com/harshbg/Los-Angeles-Restaurant-Data-Analysis-and-Prediction/tree/master/Input) and the updated data can also be downloaded from 
+The data was sourced in February 2019 and has data till January 16, 2019. Both the files can be found in [data](https://github.com/ashish1993utd/Los-Angeles-Restaurant-Data-Analysis-and-Prediction/tree/master/Input) and the updated data can also be downloaded from 
 [inspection data](https://data.lacounty.gov/Health/LOS-ANGELES-COUNTY-RESTAURANT-AND-MARKET-INSPECTIO/6ni6-h5kp) and [violations data](https://data.lacounty.gov/Health/LOS-ANGELES-COUNTY-RESTAURANT-AND-MARKET-VIOLATION/8jyd-4pv9).
 
-The [code](https://github.com/harshbg/Los-Angeles-Restaurant-Data-Analysis-and-Prediction/blob/master/Code/Naive%20Bayes%20Classification.ipynb) can be used to replicate the results. 
-The tableau visualizations can be found [here](https://github.com/harshbg/Los-Angeles-Restaurant-Data-Analysis-and-Prediction/tree/master/Code).
+The [code](https://github.com/ashish1993utd/Los-Angeles-Restaurant-Data-Analysis-and-Prediction/blob/master/Code/Naive%20Bayes%20Classification.ipynb) can be used to replicate the results. 
+The tableau visualizations can be found [here](https://github.com/ashish1993utd/Los-Angeles-Restaurant-Data-Analysis-and-Prediction/Tableau-Visualizations/Code).
 
 
 ## Code Examples
@@ -158,22 +158,18 @@ We have tried to answer the following questions in our analysis:
 * Are there any patterns in terms of how health scores of restaurants change over time?
 
 ## Status
-Project is: _finished_. Our team was the winner of the INFORMS Analytics Challenge 2019. Our college, [The University of Texas at Dallas](https://www.utdallas.edu/) has published an [article](http://bit.ly/2Wpq792) detailing the account of the competitions win by our team "Linear Digressors". 
+Project is: _finished_. Our team was the winner of the INFORMS Analytics Challenge 2019. Our college, [The University of Texas at Dallas](https://www.utdallas.edu/) has published an [article](http://bit.ly/2xkfs0U) detailing the account of the competitions win by our team "Linear Digressors". 
 
 ## Inspiration
 The cover photo of the Presentation template is to replicate the Los-Angeles skyline. 
 [Los Angeles skyline silhouette design](https://www.vexels.com/vectors/preview/79018/los-angeles-skyline-silhouette-design) | designed by Vexels
 
 ## Contact
-Created by me and my teammate [Siddharth Oza](https://github.com/siddharthoza), and [Ashish Sharma](https://github.com/ashish1993utd).
+Created by me and my teammate [Siddharth Oza](https://github.com/siddharthoza), and [Harsh Gupta](https://github.com/harshbg).
 
 If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you
-just want to shoot a question, please feel free to connect with me on <a href="hello@gupta-harsh.com" target="_blank">email</a>, 
-<a href="http://bit.ly/2uOIUeo" target="_blank">LinkedIn</a>, or 
-<a href="http://bit.ly/2CZv1i5" target="_blank">Twitter</a>. 
-My other projects can be found [here](http://bit.ly/2UlyFgC).
+just want to shoot a question, please feel free to connect with me on 
+<a href="https://bit.ly/2YyG89N" target="_blank">LinkedIn</a>
 
 [![Analytics](https://ga-beacon.appspot.com/UA-42822568-3/Los-Angeles-Restaurant-Data-Analysis-and-Prediction)](https://github.com/igrigorik/ga-beacon)
-[![GitHub](https://img.shields.io/github/followers/harshbg.svg?style=social)](http://bit.ly/2HYQaL1)
-[![Twitter](https://img.shields.io/twitter/follow/harshbg.svg?style=social)](http://bit.ly/2VHxROX)
-[![Say Thanks!](https://img.shields.io/badge/Say-Thanks!-yellow.svg)](http://bit.ly/2M0s0Vu)
+[![GitHub](https://img.shields.io/github/followers/ashish1993utd.svg?style=social)](https://github.com/ashish1993utd)
