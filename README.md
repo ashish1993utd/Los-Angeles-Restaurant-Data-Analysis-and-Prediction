@@ -39,7 +39,7 @@ unincorporated areas in the LA county. We have analyzed the data to answer 5 que
 There are two datasets available: 
 (i) market inspection dataset: contains results of inspection;
 (ii) market violations dataset: contains information on health code violations in restaurants.
-The data was sourced in February 2019 and has data till January 16, 2019. Both the files can be found in [data](https://github.com/ashish1993utd/Los-Angeles-Restaurant-Data-Analysis-and-Prediction/tree/master/Input) and the updated data can also be downloaded from 
+The data was sourced in February 2019 and has data till January 16, 2019. Data can be downloaded from 
 [inspection data](https://data.lacounty.gov/Health/LOS-ANGELES-COUNTY-RESTAURANT-AND-MARKET-INSPECTIO/6ni6-h5kp) and [violations data](https://data.lacounty.gov/Health/LOS-ANGELES-COUNTY-RESTAURANT-AND-MARKET-VIOLATION/8jyd-4pv9).
 
 The [code](https://github.com/ashish1993utd/Los-Angeles-Restaurant-Data-Analysis-and-Prediction/blob/master/Code/Naive%20Bayes%20Classification.ipynb) can be used to replicate the results. 
