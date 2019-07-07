@@ -171,5 +171,4 @@ If you loved what you read here and feel like we can collaborate to produce some
 just want to shoot a question, please feel free to connect with me on 
 <a href="https://bit.ly/2YyG89N" target="_blank">LinkedIn</a>
 
-[![Analytics](https://ga-beacon.appspot.com/UA-42822568-3/Los-Angeles-Restaurant-Data-Analysis-and-Prediction)](https://github.com/igrigorik/ga-beacon)
 [![GitHub](https://img.shields.io/github/followers/ashish1993utd.svg?style=social)](https://github.com/ashish1993utd)
