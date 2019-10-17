@@ -2,7 +2,7 @@
 ![HitCount](http://hits.dwyl.io/ashish1993utd/Los-Angeles-Restaurant-Data-Analysis-and-Prediction.svg)
 
 
-# Los Angeles Restaurant Data Analysis and Prediction
+# Los Angeles Restaurant Data Analysis and Predictio
 > An analysis of the inspection data of the restaurants in the 88 cities of Los Angeles county.
 The project was done as part of INFORMS Analytics Challenge at the University of Texas at Dallas. The entire summary of the project can be found in the [project report](https://github.com/ashish1993utd/Los-Angeles-Restaurant-Data-Analysis-and-Prediction/blob/master/Team%20Linear%20Digressors-Final.pdf).
 
